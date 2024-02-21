@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henry Wang
 - I'm currently a student at UIUC's Laboratory High School
-- Learning Java, Python, and JavaScript
+- Learning C++, Java, and Python
 
 <!---
 henryw4/henryw4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
