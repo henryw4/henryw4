@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Henry Wang
-- I'm currently a ECE student at UIUC
+- I'm currently an ECE student at UIUC
 - Learning C++, Java, and Python
 
 <!---
