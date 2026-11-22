@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henry Wang
 - I'm currently an ECE student at UIUC
-- Learning C++, Java, and Python
+- Learning C++, Python, and SystemVerilog
 
 <!---
 henryw4/henryw4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
